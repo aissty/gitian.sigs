@@ -1,16 +1,3 @@
---- !omap
-- out_manifest: |
-    835cf561c427e316230b87f573accb4ae427aa333ad7782797820b75cf4a3d00  litecoin-0.14.2-win-unsigned.tar.gz
-    804a1a07e33281c871e4f0cc90bdd5adb07836ad592bd4e2c641f267d1502118  litecoin-0.14.2-win32-debug.zip
-    e8ed6e2fb181d2d234adc8d56664d3099ad4f426d175807612b93f6060f2bf7e  litecoin-0.14.2-win32-setup-unsigned.exe
-    c0035fcd96aea9745a59ba5c93cdc5d18a58d01827d3744f3e76f8b383cc3919  litecoin-0.14.2-win32.zip
-    4e008dfec5e2df335e611f48284c6b0b4a7d11759cf6a161f131d58969461ac9  litecoin-0.14.2-win64-debug.zip
-    d61249f4d4a20b199395ffb9c013bed10f4ae69c6fd50ba68c8269d7315739a9  litecoin-0.14.2-win64-setup-unsigned.exe
-    c47b196a45f64dbfc9d13b66b50d4da82a263d95b36577e64b31c37590f718b2  litecoin-0.14.2-win64.zip
-    189f587e6863f43328cd1cab20cca2f1eaaf3c485bb9fa17448483aab8ebc2f4  src/litecoin-0.14.2.tar.gz
-- in_manifest: |-
-    2a77938f9bb4cfa7179c491bbafb9ce9a94aceeb61a3fb434e5a52a38472909e  litecoin-win-0.14-desc.yml
-    git:7299f6dfa8485bab5ed17e56e4d59c09fb8c8793 litecoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
