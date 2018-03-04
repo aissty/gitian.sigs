@@ -567,6 +567,6 @@
     4729317994f37bf1a97770c34fe0c5a46b4a299fd8842c51fc2059822e208cbe  x86_64-w64-mingw32/zlib/zlib-1.2.11-8af9cef5598.tar.gz
     059398a0bc4654ef14d368fce269af936b53df6a158c86b37e390b2593df6965  x86_64-w64-mingw32/zlib/zlib-1.2.11-8af9cef5598.tar.gz.hash
 - release: 0.14.2-win-unsigned
-- name: litecoin-win-0.14
+- name: rockcoin-win-0.14
 - type: build
 - optionals: 
